@@ -1,0 +1,57 @@
+body{
+	background-color: #ffffff;
+	font-family: 'Proxima Nova', Helvetica, sans-serif;
+	margin: 0;
+}
+
+
+#nav ul {
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #8BBEFF;
+	margin: 0;
+	padding: 0;
+
+}
+
+#nav li {
+	float: left;
+}
+
+#nav a {
+	color: #000000;
+	display: block;
+	padding: 8px;
+	text-decoration: none;
+}
+
+#nav a:hover {
+	color: #000000;
+	display: block;
+	padding: 8px;
+	text-decoration: underline;
+}
+
+#wrapper {
+	min-height: 100%;
+	position: relative;
+}
+
+    
+#main {
+	padding: 15px;
+
+}
+
+input, textarea {
+	width: 450
+}
+
+textarea {
+	height: 165
+	
+}
+
+#footer {
+	
+}
